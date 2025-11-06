@@ -1,0 +1,9 @@
+﻿venv/
+__pycache__/
+*.csv
+*.pt
+*.html
+fraud.py
+fraud2.py
+fraud_gnn_streamlit.py
+README.md
